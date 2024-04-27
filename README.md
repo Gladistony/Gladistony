@@ -1,4 +1,4 @@
-# Gladistony Silva Lins
+# Sobre mim
 
 Nasci em Palmares-PE e atualmente resido em Caruaru-PE. Iniciei minha trajetória acadêmica cursando Licenciatura em Física na UFPE. Contudo, devido a complicações de saúde, vi-me na necessidade de interromper o curso. Anos mais tarde, engajei-me em uma nova graduação em Engenharia da Computação pela UFRPE, área na qual sempre tive grande afinidade, especialmente em programação.
 
