@@ -1,49 +1,57 @@
-# Sobre mim
+# Olá, eu sou o Gladistony! 👋
 
-Nasci em Palmares-PE e atualmente resido em Caruaru-PE. Iniciei minha trajetória acadêmica cursando Licenciatura em Física na UFPE. Contudo, devido a complicações de saúde, vi-me na necessidade de interromper o curso. Anos mais tarde, engajei-me em uma nova graduação em Engenharia da Computação pela UFRPE, área na qual sempre tive grande afinidade, especialmente em programação.
+Físico por formação acadêmica inicial e Engenheiro de Computação por paixão. Atualmente, busco unir esses dois mundos através do desenvolvimento de software, inteligência artificial e simulações.
 
-Atualmente, estou dedicando-me ao desenvolvimento de jogos utilizando a engine Godot, o que tem sido uma experiência enriquecedora e desafiadora. Paralelamente, participo de um projeto de pesquisa que explora a aplicação de inteligência artificial na detecção e análise de ondas gravitacionais. Este projeto representa uma oportunidade única de contribuir para o avanço científico na interseção entre computação e física.
+---
 
-### Conecte-se comigo
+### 🧬 Sobre Mim
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gladistony_silva/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gladistony.silva@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gladistony-silva-lins-10232846/)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/gladistonysilva)
+Natural de Palmares-PE e residente em Caruaru-PE. Minha jornada começou na **Licenciatura em Física (UFPE)**, o que me deu uma base analítica sólida para resolver problemas complexos. Hoje, como graduando em **Engenharia da Computação (UFRPE)**, foco em transformar esses conceitos em tecnologia de ponta.
 
-### Habilidades
+- 🌌 **Pesquisa:** Atuo em um projeto de IA focado na detecção e análise de **Ondas Gravitacionais** (UFRPE).
+- 🎮 **Game Dev:** Desenvolvedor independente explorando a engine **Godot** para criar experiências interativas.
+- 🏆 **Destaque:** Menção Honrosa na competição global **DrivenData** com a equipe "Dune Divers" (2024).
 
-#### Gerais
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+---
 
-#### Linguagens de programação
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
+### 🛠️ Habilidades Técnicas
 
-#### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
+| **Game Dev & IA** | ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) |
 
-### GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gladistony&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gladistony&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 📈 Estatísticas & Atividade
+*Dados atualizados automaticamente via GitHub Actions (Metrics + WakaTime)*
 
-### Menções em competições
+<div align="center">
+  <img src="./github-metrics.svg" alt="Minhas Estatísticas" width="100%">
+</div>
 
-> [Menção Honrosa na competiçao drivendata com a equipe 'Dune Divers' - 2024](https://www.drivendata.org/competitions/256/)
+---
 
-### Meus Principais Repositorios
+### 📂 Projetos em Destaque
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=fabiomnsantos&repo=driven-data-UABJ&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiomnsantos/driven-data-UABJ)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Gladistony&repo=Mathefian-Estudo-Criacao-de-jogos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gladistony/Mathefian-Estudo-Criacao-de-jogos)
+#### 🏅 Ciência de Dados & Pesquisa
+* **[Driven Data UABJ](https://github.com/fabiomnsantos/driven-data-UABJ)** - Repositório do projeto premiado na competição DrivenData.
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Gladistony&repo=Aplicativo-Projeto-Interdisciplinar-1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gladistony/Aplicativo-Projeto-Interdisciplinar-1)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Gladistony&repo=Aplicativo-Projeto-Interdisciplinar-2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gladistony/Aplicativo-Projeto-Interdisciplinar-2)
+#### 🎮 Desenvolvimento de Jogos
+* **[Mathefian](https://github.com/Gladistony/Mathefian-Estudo-Criacao-de-jogos)** - Laboratório de estudos e criação de jogos utilizando a Godot Engine.
+
+#### 📱 Projetos Interdisciplinares
+* **[Aplicativo Projeto 1](https://github.com/Gladistony/Aplicativo-Projeto-Interdisciplinar-1)** | **[Aplicativo Projeto 2](https://github.com/Gladistony/Aplicativo-Projeto-Interdisciplinar-2)** - Desenvolvimento de sistemas para a graduação em Engenharia.
+
+---
+
+### 📫 Conecte-se comigo
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gladistony-silva-lins-10232846/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="mailto:gladistony.silva@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+<a href="https://t.me/gladistonysilva" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.dio.me/users/gladistony_silva/" target="_blank"><img src="https://img.shields.io/badge/-DIO-30A3DC?style=for-the-badge" alt="DIO"></a>
+</p>
