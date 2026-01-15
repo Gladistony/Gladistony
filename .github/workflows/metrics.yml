@@ -16,19 +16,28 @@ jobs:
           user: Gladistony
           template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: America/Recife
           
-          # Plugin Languages (focado em Starred e afinidade)
+          # Fix para as cores e detalhes das linguagens
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_colors: github # Usa as cores oficiais do GitHub
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_ignored: html, css, tex, roff
+          plugin_languages_limit: 8
+
+          # Plugin Star Lists (Linguagens dos repositórios que você deu estrela)
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit: 5
           
           # Plugin WakaTime (Tempo de codificação)
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
+          plugin_wakatime_days: 14
           plugin_wakatime_sections: languages, editors, os
+          plugin_wakatime_unused: yes # Mostra até o tempo em que você não estava codificando, se quiser
           
-          # Ajuste de Layout
-          config_timezone: America/Recife
+          # Opções de exibição para evitar o erro 422 e melhorar o visual
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
